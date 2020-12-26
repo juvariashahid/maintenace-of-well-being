@@ -2,7 +2,7 @@
 
 
 ![GitHub](https://img.shields.io/github/license/juvariashahid/maintenace-of-well-being)
-https://travis-ci.com/juvariashahid/maintenace-of-well-being.svg?branch=main
+![GitHub](https://travis-ci.com/juvariashahid/maintenace-of-well-being.svg?branch=main)
 
 ### Background
 
