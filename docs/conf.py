@@ -23,6 +23,7 @@ author = 'Juvaria Shahid'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1.0'
+master_doc = "index"
 
 
 # -- General configuration ---------------------------------------------------
@@ -68,4 +69,3 @@ def setup(app):
         'auto_toc_tree_section': 'Contents',
     }, True)
     app.add_transform(AutoStructify)
-master_doc = "index"
