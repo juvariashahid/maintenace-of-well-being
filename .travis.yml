@@ -1,8 +1,15 @@
 language: node_js
+sudo: false
 node_js:
- - "node"
-env: 
- - CODECOV_TOKEN="2a048b5f-62d1-4388-ba29-e2d65cd6d6c2"
-
+  - 10
+  - 9
+  - 8
+  - 7
+  - 6
+install:
+  - cd istanbul-mocha && npm install && cd ..
+script:
+  - cd istanbul-mocha && npm test
+  
 
 
