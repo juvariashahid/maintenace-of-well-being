@@ -4,6 +4,8 @@
 ![GitHub](https://img.shields.io/github/license/juvariashahid/maintenace-of-well-being)
 ![GitHub](https://travis-ci.com/juvariashahid/maintenace-of-well-being.svg?branch=main)
 [![Coverage Status](https://coveralls.io/repos/github/juvariashahid/maintenace-of-well-being/badge.svg?branch=main)](https://coveralls.io/github/juvariashahid/maintenace-of-well-being?branch=main)
+[![Documentation Status](https://readthedocs.org/projects/mwb/badge/?version=latest)](https://mwb.readthedocs.io/en/latest/?badge=latest)
+
 
 ### Background
 
