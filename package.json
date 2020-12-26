@@ -5,10 +5,6 @@
   "version": "0.0.1",
   "devDependencies": {
     "jshint": "^2.6.0"
-  },
-  "scripts": {
-    "lint": "./node_modules/.bin/eslint **/*.js",
-    "test": "jshint hello.js"
   }
 }
 
