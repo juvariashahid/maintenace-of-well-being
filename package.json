@@ -8,7 +8,7 @@
   },
   "scripts": {
     "lint": "./node_modules/.bin/eslint **/*.js",
-    "test": "jshint hello1.js"
+    "test": "jshint hello.js"
   }
 }
 
