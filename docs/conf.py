@@ -23,7 +23,7 @@ author = 'Juvaria Shahid'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1.0'
-master_doc = "index"
+master_doc = "index.rst"
 
 
 # -- General configuration ---------------------------------------------------
